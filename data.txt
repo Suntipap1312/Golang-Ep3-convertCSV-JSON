@@ -1,0 +1,4 @@
+title,qty,price
+apple,20,10
+banana,30,10
+orange,40,10
